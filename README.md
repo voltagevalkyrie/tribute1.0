@@ -20,7 +20,7 @@ To view the tribute page, simply open the `index.html` file in a web browser. Yo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tribute-page.git
+git clone https://github.com/voltagevalkyrie/tribute1.0.git
 
 # Open the project folder
 cd tribute-page
